@@ -2,7 +2,7 @@
 
 <h2>01- INSTALANDO O EXPO E O TYPESCRIPT </h2> 
 <h3>comando para criar um projeto executando no terminal</h3>
-  <p>-> npx create-expo-app my-app </p>
+  <span>-> npx create-expo-app my-app </span>
 
-<p>- para executar a aplicação </p>
-  <p>-> npx expo start</p>
+<h3>- para executar a aplicação </h3>
+  <span>-> npx expo start</span>
