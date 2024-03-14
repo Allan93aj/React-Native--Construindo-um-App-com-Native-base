@@ -1,8 +1,8 @@
-React Native: construindo um app com Native Base 
+<h1>React Native: construindo um app com Native Base </h1> 
 
-<h1>01- INSTALANDO O EXPO E O TYPESCRIPT </h1> 
--comando para criar um projeto executando no terminal
-  -> npx create-expo-app my-app
+<h2>01- INSTALANDO O EXPO E O TYPESCRIPT </h2> 
+<h3>comando para criar um projeto executando no terminal</h3>
+  <p>-> npx create-expo-app my-app </p>
 
-- para executar a aplicação
-  -> npx expo start
+<p>- para executar a aplicação </p>
+  <p>-> npx expo start</p>
